@@ -1,7 +1,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 Hey 👋🏻,
 I am a Third Year Computer Engineering Student at Cluster Innovation Center. I love App Development and Machine Learning and is trying to learn more about Full Stack Web Development and Cyber Security. 
-
+<br><br>
 - 🔭 I’m currently working on a single analytics platform for all the social media apps.
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
 - 👯 I’m looking to collaborate on Machine Learning and Android Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
