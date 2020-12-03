@@ -20,12 +20,6 @@ I am a Third Year Computer Engineering Student at Cluster Innovation Center. I l
   - [myrepositories.blogspot.com][6]
   
 
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/pycrash/pycrash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pycrash&show_icons=true&theme=radical" alt="Ashutosh's GitHub Stats" />
-</a>
-
 [1]: https://www.esportzgeeks.com
 [2]: https://www.linkedin.com/in/pycrash
 [3]: https://www.twitter.com/pycrash
