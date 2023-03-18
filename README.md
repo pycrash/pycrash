@@ -1,6 +1,6 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 Hey 👋🏻,
-I am a Computer Engineering Graduate from Cluster Innovation Center. I love App Development and Full Stack Web Developmen. 
+I am a Computer Engineering Graduate from Cluster Innovation Center. I love App Development and Full Stack Web Development. 
 
 - 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning Data Science | NLP |
